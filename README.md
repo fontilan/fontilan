@@ -1,4 +1,4 @@
-#### Hi :wave:
+### Hi :wave:
 
 My name is Wojtek and I am a frontend developer from Kraków, Poland
 
